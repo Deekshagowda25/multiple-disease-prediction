@@ -31,6 +31,7 @@ git clone https://github.com/Deekshagowda25/multiple-disease-prediction.git
 cd multiple-disease-prediction
 ## Create a virtual environment (optional but recommended)
 python -m venv venv
+
 venv\Scripts\activate       
 ## Install dependencies
 pip install -r requirements.txt
