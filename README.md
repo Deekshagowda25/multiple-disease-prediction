@@ -28,14 +28,19 @@ By utilizing different classification algorithms, the system provides early dise
 Clone the repository
 ```bash
 git clone https://github.com/Deekshagowda25/multiple-disease-prediction.git
-
 cd multiple-disease-prediction
-
+```
 ## Create a virtual environment (optional but recommended)
+```bash
 python -m venv venv
-
 venv\Scripts\activate
+```
+
 ## Install dependencies
+```bash
 pip install -r requirements.txt
+```
 ## Run the app 
+```bash
 streamlit run app.py
+```
