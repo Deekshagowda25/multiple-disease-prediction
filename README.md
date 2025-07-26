@@ -26,15 +26,16 @@ By utilizing different classification algorithms, the system provides early dise
 
 ## 🚀 Installation & Setup
 Clone the repository
+```bash
+git clone https://github.com/Deekshagowda25/multiple-disease-prediction.git
 
-`git clone https://github.com/Deekshagowda25/multiple-disease-prediction.git`
+cd multiple-disease-prediction
 
-`cd multiple-disease-prediction`
 ## Create a virtual environment (optional but recommended)
-`python -m venv venv`
+python -m venv venv
 
-`venv\Scripts\activate`  
+venv\Scripts\activate
 ## Install dependencies
-`pip install -r requirements.txt`
+pip install -r requirements.txt
 ## Run the app 
-`streamlit run app.py`
+streamlit run app.py
